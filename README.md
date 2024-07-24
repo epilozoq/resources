@@ -1,2 +1,2 @@
 # resources
-of out context
+of out context directory
